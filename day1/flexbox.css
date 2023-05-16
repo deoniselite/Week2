@@ -20,4 +20,6 @@ font-size: 30px;
 margin-right: auto;
 }
 #box2 {background-color: yellow;}
-#box3 {background-color: pink;}
+#box3 {background-color: pink;
+order: 2;
+flex-grow: 2;}
