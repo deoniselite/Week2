@@ -1,0 +1,22 @@
+img {
+    width: 40%;
+    height: 60%;
+}
+aside {
+    float: right;
+}
+td,th {
+    border: 1px solid white;
+}
+table {
+    width: 300px;
+    height: 300px;
+    border-collapse: collapse;
+    text-align: center;
+    color: green;
+    background-color: black;
+}
+caption {
+    border: 1px solid white;
+    background-color: black;   
+}

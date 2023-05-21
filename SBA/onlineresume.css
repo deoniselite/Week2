@@ -1,0 +1,113 @@
+html {
+  background-color: #302f2f;
+  color: rgb(48, 150, 48);
+}
+
+.resume-body {
+  display: flex;
+  padding: 9px;
+}
+.right {
+  display: flex;
+  font-size: large;
+  width: 50%;
+  float: left;
+  
+}
+ul {
+    list-style-type: none;
+}
+ li {
+    margin-top: 5px;
+    
+}
+.Profile {
+  height: 110%;
+  width: 110%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: last baseline;
+}
+.img-container {
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  position: relative;
+  left: -10px;
+  margin-top: -13px;
+}
+.h1 {
+  right: 1px;
+  margin-top: -5px;
+}
+.ul {
+  list-style-type: none;
+  word-spacing: 10px;
+}
+.left {
+  float: right;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.paragraph {
+  margin-top: 50px;
+  margin-bottom: 1px;
+  font-size: 130%;
+  margin-right: -24px;
+}
+#rightfix {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.h3 {
+    margin-top: 20px;
+    color: blanchedalmond;
+}
+.h2 {
+   color: aliceblue;
+}
+  
+  
+.p2 {
+  color: rgb(32, 212, 71);
+  text-align: left;
+  font-size: 1%;
+}
+.skills {
+  color: azure;
+  display: flexbox;
+  margin-left: 80px;
+  font-size: larger;
+  justify-content: flex-end;
+}
+.h5 {
+  color: rgb(8, 153, 52);
+  display: flexbox;
+  
+  font-size: large;
+  justify-content: flex-end 100px;
+}
+.choice {
+  color: aliceblue;
+}
+.Beginning {
+  color: aliceblue;
+}
+.Zion {
+  margin-top: -10px; 
+  color: aquamarine; 
+} 
+.why {
+  color: rgb(36, 199, 85);
+  font-size: larger;
+}
+.wrapper {
+  display: flex;
+
+}

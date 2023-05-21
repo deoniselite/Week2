@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: grey;
+  background-color: #302f2f;
 }
 li {
     float: right;
@@ -24,4 +24,16 @@ li a:hover:not(.active) {
 }
 .active {
     background-color: green
+}
+h1 {
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+    text-align: center;
+}
+h3 {
+    color: aquamarine;
+}
+html {
+    background-color: #302f2f;
 }
