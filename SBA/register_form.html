@@ -4,9 +4,35 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>SBA</title>
+    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="register.css">
 </head>
 <body>
-    
+    <ul>
+        <li style="float: left;"><a class="active" href="./home.page.html">
+            Home
+        </a></li>
+        <li><a class="Login" href="./login-page.html">
+            Login
+        </a></li>
+        <li><a class="Register" href="./register_form.html">
+            Register
+        </a></li>
+        <li><a class="About Me" href="./About-Me.html">
+            About Me
+        </a></li>
+      </ul>
+      <form action="#">
+        <label for="FirstName">First Name</label>
+        <input type="text" name="FirstName" id="FirstName" required><br>
+        <label for="LastName">Last Name</label>
+        <input type="text" name="LastName" id="LastName" required><br>
+        <label for="Email">Email</label>
+        <input type="email" name="Email" id="Email" required><br>
+        <label for="Password">Password</label>
+        <input type="password" name="Password" id="Password" required><br>
+        <input type="submit" value="Register">
+     </form>  
 </body>
 </html>

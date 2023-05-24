@@ -1,0 +1,8 @@
+form {
+    border: solid 1px white;
+    width: fit-content;
+    height: fit-content;
+    display: flexbox;
+    margin-left: 200px;
+    color: aliceblue;
+}

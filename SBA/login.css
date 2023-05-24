@@ -1,0 +1,18 @@
+
+ img {
+    margin-top: 100px;
+}
+ h1 {
+    margin: 8px;
+    font-size: 24px
+}
+.forms {
+   display: flex;
+   flex-direction: column;
+   justify-content:space-between;
+   margin-top: -140px;
+   color: aquamarine;
+}
+form div {
+    margin-top: 10px;
+}
