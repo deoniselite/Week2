@@ -5,7 +5,9 @@
  h1 {
     margin: 8px;
     font-size: 24px
-}
+ }
+    
+
 .forms {
    display: flex;
    flex-direction: column;

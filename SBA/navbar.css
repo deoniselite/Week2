@@ -4,6 +4,12 @@ ul {
     padding: 0;
     overflow: hidden;
   background-color: #302f2f;
+  transition-property: background-color;
+    transition-duration: 1s;
+}
+ul:hover {
+   background-color: aquamarine; 
+
 }
 li {
     float: right;

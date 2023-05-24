@@ -15,6 +15,10 @@ table {
     text-align: center;
     color: green;
     background-color: black;
+    transition-duration: 1s;
+}
+table:hover {
+    transform: rotate(360deg);
 }
 caption {
     border: 1px solid white;
